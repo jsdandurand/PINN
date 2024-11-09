@@ -1,0 +1,27 @@
+ADE_params:
+- !!python/name:__main__.u ''
+- !!python/name:__main__.v ''
+- 0.001
+dt: 1
+epochs_adam: 1000
+epochs_lbfgs: 3000
+layers:
+- 2
+- 50
+- 50
+- 50
+- 50
+- 50
+- 50
+- 501
+lb:
+- -5.0
+- -5.0
+n_seconds: 10
+q: 500
+source:
+- 0.0
+- 0.0
+ub:
+- 5.0
+- 5.0

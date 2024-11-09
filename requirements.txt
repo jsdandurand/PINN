@@ -1,0 +1,9 @@
+torch==2.1.2+cu118
+torchvision==0.16.2+cu118
+ninja
+git+https://github.com/NVlabs/tiny-cuda-nn/#subdirectory=bindings/torch
+pyyaml
+pyDOE
+matplotlib
+tqdm
+imageio

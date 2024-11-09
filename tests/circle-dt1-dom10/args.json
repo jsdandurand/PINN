@@ -1,0 +1,1 @@
+{"n_seconds": 10, "dt": 1, "q": 500, "K": 0.001, "lb": [-5.0, -5.0], "ub": [5.0, 5.0], "source": [0, 0], "source_middle": true, "N_c_ratio": 500.0, "layers": [2, 50, 50, 50, 50, 50, 50], "epochs_adam": 1000, "epochs_lbfgs": 3000, "output_dir": "results", "exp_name": "circle-dt1-dom10"}
